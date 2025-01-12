@@ -41,4 +41,4 @@ The project also explores additional estimators such as $\delta_{JSO}(\boldsymbo
 - Wasserman, L. (2004). All of Statistics.
 - Wikipedia contributors. (2023, October 10). Chi distribution. In Wikipedia, The Free Encyclopedia. Retrieved from [Chi distribution](https://en.wikipedia.org/wiki/Chi_distribution)
 
-For more details, please refer to the code available in the respective Python scripts mentioned in the figures.
+For more details, please refer to the "report/report.pdf". 
